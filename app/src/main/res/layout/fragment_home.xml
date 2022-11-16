@@ -39,8 +39,8 @@
 
     <ProgressBar
         android:id="@+id/loading"
-        style="?android:attr/progressBarStyleHorizontal"
-        android:layout_width="200dp"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="112dp"
         android:visibility="invisible"
